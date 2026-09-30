@@ -67,8 +67,16 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 | `Family_Support`      | Rating/score                 |
 | `Anxiety_Level`       | Rating/score                 |
 | `Stress_Score`        | Composite score              |
-| Categorical variables | Categories; no physical unit |
+
+**Codes, symbols, and abbreviations**
+| Variable              | Codes / Values                                                   |
+| --------------------- | ---------------------------------------------------------------- |
+| `Gender`              | `Male`, `Female`                                                 |
+| `Tuition`             | `Yes`, `No`                                                      |
+| `Physical_Exercise`   | `Yes`, `No`                                                      |
+| `Family_Income_Level` | `Low`, `Medium`, `High`                                          |
+| `University_Type`     | `National University`, `Private University`, `Public University` |
+| `Stress_Level`        | `Low`, `Medium`, `High`                                          |
 
 **Missing data codes:** 
-No missing values were identified in the dataset. No special numerical codes are used to represent missing observations.
-
+No missing values were identified in the dataset. No special numerical codes are used to represent missing observations. 
