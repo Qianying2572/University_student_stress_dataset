@@ -68,7 +68,7 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 | `Anxiety_Level`       | Rating/score                 |
 | `Stress_Score`        | Composite score              |
 
-**Codes, symbols, and abbreviations**
+**Codes, symbols, and abbreviations:**
 | Variable              | Codes / Values                                                   |
 | --------------------- | ---------------------------------------------------------------- |
 | `Gender`              | `Male`, `Female`                                                 |
@@ -80,3 +80,5 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 
 **Missing data codes:** 
 No missing values were identified in the dataset. No special numerical codes are used to represent missing observations. 
+## CITATION
+Paul, Subrata Kumer; Paul, Rakhi Rani; Musa Miah, Abu Saleh; Hamid, Md. Ekramul ; Rashidul Hasan, Mirza A.F.M.  (2025), “University Student Stress Dataset”, Mendeley Data, V1, doi: 10.17632/rc5htd5dfr.1
