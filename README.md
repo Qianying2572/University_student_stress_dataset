@@ -78,6 +78,22 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 | `University_Type`     | `National University`, `Private University`, `Public University` |
 | `Stress_Level`        | `Low`, `Medium`, `High`                                          |
 
+**Allowed value：**
+| Variable           | Minimum | Maximum | Observed range |
+| ------------------ | ------: | ------: | -------------- |
+| `Age`              |      19 |      24 | 19–24 years    |
+| `Study_Hours`      |       0 |       9 | 0–9 hours/day  |
+| `Class_Attendance` |      40 |      99 | 40–99%         |
+| `Exam_Frequency`   |       1 |       9 | 1–9            |
+| `Assignment_Load`  |       1 |       9 | 1–9            |
+| `Sleep_Hours`      |       4 |       9 | 4–9 hours/day  |
+| `Social_Media_Use` |       0 |       7 | 0–7 hours/day  |
+| `Screen_Time`      |       1 |      11 | 1–11 hours/day |
+| `Peer_Pressure`    |       1 |       9 | 1–9            |
+| `Family_Support`   |       1 |       9 | 1–9            |
+| `Anxiety_Level`    |       1 |       9 | 1–9            |
+| `Stress_Score`     |      -9 |      33 | -9–33          |
+
 **Missing data codes:** 
 No missing values were identified in the dataset. No special numerical codes are used to represent missing observations. 
 ## CITATION
