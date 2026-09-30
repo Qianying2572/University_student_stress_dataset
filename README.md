@@ -33,54 +33,28 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 ## DATA-SPECIFIC INFORMATION
 **Number of variables:** 18 \
 **Number of rows:** 3,000 \
-**Missing values:** No missing values \
-**Variable list and definitions:** 
-| Variable / Column     | Full name & definition                                                   | Type        |
-| --------------------- | ------------------------------------------------------------------------ | ----------- |
-| `Age`                 | Age of the student, measured in years                                    | Numeric     |
-| `Gender`              | Gender of the student                                                    | Categorical |
-| `Study_Hours`         | Number of hours spent studying per day                                   | Numeric     |
-| `Class_Attendance`    | Percentage of classes attended                                           | Numeric     |
-| `Tuition`             | Whether the student receives/pays for tuition                            | Categorical |
-| `Exam_Frequency`      | Frequency of examinations                                                | Numeric     |
-| `Assignment_Load`     | Level/amount of assignment workload                                      | Numeric     |
-| `Sleep_Hours`         | Number of hours of sleep per day                                         | Numeric     |
-| `Physical_Exercise`   | Whether the student participates in physical exercise                    | Categorical |
-| `Social_Media_Use`    | Hours spent using social media per day                                   | Numeric     |
-| `Screen_Time`         | Daily screen time in hours                                               | Numeric     |
-| `Family_Income_Level` | Student's family income category                                         | Categorical |
-| `Peer_Pressure`       | Level of pressure experienced from peers                                 | Numeric     |
-| `Family_Support`      | Level of support received from family                                    | Numeric     |
-| `Anxiety_Level`       | Level of anxiety experienced by the student                              | Numeric     |
-| `University_Type`     | Type of university attended                                              | Categorical |
-| `Stress_Score`        | Composite score representing the student's overall stress                | Numeric     |
-| `Stress_Level`        | Categorized stress level based on the stress score: Low, Medium, or High | Categorical | 
-
-**Units of measurement:** 
-| Variable              | Unit / Scale                 |
-| --------------------- | ---------------------------- |
-| `Age`                 | Years                        |
-| `Study_Hours`         | Hours per day                |
-| `Class_Attendance`    | Percentage (%)               |
-| `Exam_Frequency`      | Frequency/count              |
-| `Assignment_Load`     | Rating/score                 |
-| `Sleep_Hours`         | Hours per day                |
-| `Social_Media_Use`    | Hours per day                |
-| `Screen_Time`         | Hours per day                |
-| `Peer_Pressure`       | Rating/score                 |
-| `Family_Support`      | Rating/score                 |
-| `Anxiety_Level`       | Rating/score                 |
-| `Stress_Score`        | Composite score              |
-
-**Codes, symbols, and abbreviations:**
-| Variable              | Codes / Values                                                   |
-| --------------------- | ---------------------------------------------------------------- |
-| `Gender`              | `Male`, `Female`                                                 |
-| `Tuition`             | `Yes`, `No`                                                      |
-| `Physical_Exercise`   | `Yes`, `No`                                                      |
-| `Family_Income_Level` | `Low`, `Medium`, `High`                                          |
-| `University_Type`     | `National University`, `Private University`, `Public University` |
-| `Stress_Level`        | `Low`, `Medium`, `High`                                          |
+**Missing values:** No missing values 
+## DATA DICTIONARY
+| Variable / Column     | Full name & definition                                                   | Type        |  Unit  /  Code                                                    |
+| --------------------- | ------------------------------------------------------------------------ | ----------- |  ---------------------------------------------------------------- |    
+| `Age`                 | Age of the student, measured in years                                    | Numeric     |  Years                                                            |  
+| `Gender`              | Gender of the student                                                    | Categorical |  `Male`, `Female`                                                 |
+| `Study_Hours`         | Number of hours spent studying per day                                   | Numeric     |  Hours per day                                                    |
+| `Class_Attendance`    | Percentage of classes attended                                           | Numeric     |  Percentage (%)                                                   |
+| `Tuition`             | Whether the student receives/pays for tuition                            | Categorical |  `Yes`, `No`                                                      |  
+| `Exam_Frequency`      | Frequency of examinations                                                | Numeric     |  Frequency/count                                                  |
+| `Assignment_Load`     | Level/amount of assignment workload                                      | Numeric     |  Rating/score                                                     |
+| `Sleep_Hours`         | Number of hours of sleep per day                                         | Numeric     |  Hours per day                                                    |
+| `Physical_Exercise`   | Whether the student participates in physical exercise                    | Categorical |  `Yes`, `No`                                                      |
+| `Social_Media_Use`    | Hours spent using social media per day                                   | Numeric     |  Hours per day                                                    |
+| `Screen_Time`         | Daily screen time in hours                                               | Numeric     |  Hours per day                                                    |
+| `Family_Income_Level` | Student's family income category                                         | Categorical |  `Low`, `Medium`, `High`                                          |
+| `Peer_Pressure`       | Level of pressure experienced from peers                                 | Numeric     |   Rating/score                                                    |
+| `Family_Support`      | Level of support received from family                                    | Numeric     |   Rating/score                                                    |
+| `Anxiety_Level`       | Level of anxiety experienced by the student                              | Numeric     |   Rating/score                                                    |
+| `University_Type`     | Type of university attended                                              | Categorical |  `National University`, `Private University`, `Public University` |
+| `Stress_Score`        | Composite score representing the student's overall stress                | Numeric     |   Composite score                                                 |
+| `Stress_Level`        | Categorized stress level based on the stress score: Low, Medium, or High | Categorical |  `Low`, `Medium`, `High`                                          |
 
 **Allowed value：**
 | Variable           | Minimum | Maximum | Observed range |
