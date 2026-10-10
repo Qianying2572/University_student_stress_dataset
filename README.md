@@ -28,11 +28,11 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 **LATEST VERSION:** Version 1 \
 **SUBJECTS:** Student Stress, University Students, Academic Stress, Anxiety, Academic Workload, Mental Health, Bangladesh \
 **FILE FORMATS:** Comma-Separated Values (CSV), a tabular format compatible with Microsoft Excel, IBM SPSS, R, and Python.
-## DATA-SPECIFIC INFORMATION
+## DATA-SPECIFIC INFORMATION:
 **Number of variables:** 18 \
 **Number of rows:** 3,000 \
 **Missing values:** No missing values 
-## DATA DICTIONARY
+## DATA DICTIONARY:
 | Variable / Column     | Full name & definition                                                   | Type        |  Unit  /  Code                                                    |
 | --------------------- | ------------------------------------------------------------------------ | ----------- |  ---------------------------------------------------------------- |    
 | `Age`                 | Age of the student, measured in years                                    | Numeric     |  Years                                                            |  
@@ -74,10 +74,10 @@ CC BY 4.0 (Creative Commons Attribution 4.0 International licence)
 No missing values were identified in the dataset. No special numerical codes are used to represent missing observations. 
 ## METHODOLOGY: 
 This project will examine how social media use and screen time are associated with stress levels among university students. The dataset includes information on 3,000 students, covering social media use, screen time, stress scores, and other demographic and lifestyle factors. Descriptive statistics will be used to summarize the data, and Pearson correlation analysis examines the relationships between Social Media Use, Screen Time, Stress Score, and Stress Level. The goal of this research is to better understand the relationship between students' digital habits and their stress levels.
-## SHARING & ACCESS
+## SHARING & ACCESS:
 The dataset and analyze code will be shared through a public GitHub repository. The dataset will be provided as a CSV file, allowing other researchers and students to download and explore the data. Users can access the data and run code to reproduce the results. All files will be freely accessible for educational and research purposes with the original dataset's licensing and usage restrictions.
 
 **Data Sharing Agreement:**\
 The dataset is publicly available on Mendeley Data under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. This license allows users to access, share, and modify the data for research and educational purposes, provided that appropriate credit is given to the original authors. No additional data sharing agreement is required. Users must acknowledge the original source, provide a link to the license, and indicate whether any changes have been made to the dataset.
-## CITATION
+## CITATION:
 Paul, Subrata Kumer; Paul, Rakhi Rani; Musa Miah, Abu Saleh; Hamid, Md. Ekramul ; Rashidul Hasan, Mirza A.F.M.  (2025), “University Student Stress Dataset”, Mendeley Data, V1, doi: 10.17632/rc5htd5dfr.1
